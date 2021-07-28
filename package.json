@@ -1,0 +1,28 @@
+{
+  "type": "module",
+  "name": "AlkemyNodeChallenge",
+  "version": "1.0.0",
+  "main": "main.js",
+  "directories": {
+    "test": "test"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gilberto40/AlkemyNodeChallengeGM.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gilberto40/AlkemyNodeChallengeGM/issues"
+  },
+  "homepage": "https://github.com/gilberto40/AlkemyNodeChallengeGM#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
